@@ -15,7 +15,7 @@ Provide Wifi with given Credentials.
 
 # VIDEO LINK:
 Part1:
-https://drive.google.com/drive/u/0/my-drive \
+https://drive.google.com/file/d/1yK15Q0bOVXASR5BVvDsL2p2j8kEwUQps/view?usp=sharing \
 Part2:
 https://drive.google.com/file/d/1aLFdjgRMifjsO5URJTRmNAkVEUaaAyxI/view?usp=sharing
 
